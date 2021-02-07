@@ -58,6 +58,6 @@ Future section
 
 ## Members
 
-### SupplychainSandbox-ClassicGame members
+### SupplychainSandbox-CTF members
 
 * Dan Beard([@danbeard](https://github.com/danbeard))
