@@ -43,11 +43,13 @@ Please let us know if you are going and if you are interested in attending (or h
 
 [Supply Chain Block Game](https://github.com/SupplyChainSandbox/supplychaingame)
 
-[Supply Chain Trivia Game](https://github.com/SupplyChainSandbox/trivia)
+[Supply Chain Classic Game](https://github.com/SupplyChainSandbox/classicgame)
+
+[Supply Chain Trivia](https://github.com/SupplyChainSandbox/trivia)
 
 [SBOM (Sipping)](https://github.com/SupplyChainSandbox/sipping)
 
-[Informational Resources](https://github.com/SupplyChainSandbox/resources)
+[Supply Chain Resources](https://github.com/SupplyChainSandbox/resources)
 
 
 ## History
@@ -58,4 +60,4 @@ Future section
 
 ### SupplychainSandbox-ClassicGame members
 
-* Dan Beard([@sparrell](https://github.com/danbeard))
+* Dan Beard([@danbeard](https://github.com/danbeard))
