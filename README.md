@@ -23,7 +23,7 @@ In a just-in-time-delivery world, cybersecurity disruptions to traditional logis
 
 ## Communications
 
-Anyone is welcome to join our open discussions of Supplychain Sandbox Classic Game and share ideas on how to improve the concept. Much of the work of the group happens outside of SupplychainSandbox meetings and we encourage project teams to share progress updates or post questions in these channels:
+Anyone is welcome to join our open discussions of Supplychain Sandbox CTF and share ideas on how to improve the concept. Much of the work of the group happens outside of SupplychainSandbox meetings and we encourage project teams to share progress updates or post questions in these channels:
 
 * [Gitter Group](https://gitter.im/SupplyChainSandbox/SupplychainSandbox-CTF)
 
@@ -33,7 +33,7 @@ To Be Determined
 
 ## Gatherings
 
-Please let us know if you are going and if you are interested in attending (or helping to organize!) a gathering. Create a [github issue](https://github.com/SupplyChainSandbox/classicgame/issues/new) for an event and add to list below:
+Please let us know if you are going and if you are interested in attending (or helping to organize!) a gathering. Create a [github issue](https://github.com/SupplyChainSandbox/SupplyChainCTF/issues/new) for an event and add to list below:
 
 * RSA Conference- May 17-20, 2021 
 
